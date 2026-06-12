@@ -1,30 +1,20 @@
 ---
-title: "US Google Advertising Managers to Japan — Model-Grounded Source Report"
-subtitle: "Every claim tied to Hall, Hofstede, Trompenaars, or WVS/Inglehart-Welzel"
+title: "US Google Advertising Managers to Japan — Cultural Model Source Report"
+subtitle: "Hall, Hofstede, Trompenaars, and WVS/Inglehart-Welzel lenses for client-facing advertising-platform work"
 author: "Intercultural Competence and Diversity Training"
 ---
 
 # Executive summary
 
-This training is for US Google Advertising managers working with Japanese colleagues, agencies, and clients. The commercial role is defined narrowly: Google is selling advertising inventory, platform access, bidding/targeting capabilities, measurement confidence, and controlled platform pilots. The training does not frame Google managers as developing client campaigns.
+This training is for US Google Advertising managers working with Japanese colleagues, agencies, and clients. The commercial context is Google Advertising: advertising inventory, platform access, bidding and targeting capabilities, measurement confidence, and controlled platform pilots.
 
-The revised logic is: compare the cultures through named models first, then derive recommendations. Every practical claim in the deck is explainable through Hall, Hofstede, Trompenaars, or the World Values Survey / Inglehart-Welzel value map.
-
-# Evidence contract
-
-A claim is included only if it is one of the following:
-
-- A model dimension, such as Hall's high-context / low-context distinction.
-- A country placement or tendency supported by a cited source, such as Japan being high-context and the United States low-context in Nishimura, Nevgi, and Tella (2008).
-- A manager implication explicitly derived from a model dimension, such as using private concern channels when public dissent is unlikely to appear.
-
-Generic advice such as "be respectful" or "build trust" is not sufficient unless the model explains what the behavior should be and why it matters.
+The workshop compares US and Japanese business communication through named cultural models, then applies those models to client-facing platform proposals, stakeholder alignment, risk discussion, and meeting behavior.
 
 # Scenario
 
 A US Google Advertising manager presents a Google Ads platform pilot. The Japanese client team is polite, asks few questions, and does not object. The next step slows down.
 
-The training question is not "what is wrong with Japan?" It is: which model explains what the US manager may be missing?
+The training question is: which cultural model best explains what the US manager may be missing?
 
 # Model-by-model comparison
 
@@ -35,7 +25,7 @@ Relevant dimensions: power distance, individualism / collectivism, uncertainty a
 - United States tendency: more comfort with accessible leadership, direct challenge, individual ownership, explicit accountability, and test-and-learn experimentation.
 - Japan tendency: more attention to hierarchy, role, seniority, group alignment, uncertainty control, and long-term quality/reputation logic.
 
-Derived implication for Google Advertising: a platform pilot that feels like ordinary experimentation to a US manager may feel under-controlled to Japanese stakeholders unless scope, fallback, reporting cadence, and approval path are explicit.
+Application for Google Advertising: a platform pilot that feels like ordinary experimentation to a US manager may feel under-controlled to Japanese stakeholders unless scope, fallback, reporting cadence, and approval path are explicit.
 
 ## Hall: high-context vs low-context communication
 
@@ -45,7 +35,7 @@ Nishimura, Nevgi, and Tella (2008) place Japan at the high-context end of the sc
 
 The United States is treated as a low-context culture in which meanings are explicitly stated through language. Communication is direct, precise, and reliant on extensive verbal expression to ensure clarity.
 
-Derived implication for Google Advertising: a polite phrase such as "This may be difficult" or "We will consider it" must not be interpreted only literally. It can be a risk signal requiring clarification, containment, or a different internal route.
+Application for Google Advertising: a polite phrase such as "This may be difficult" or "We will consider it" should not be interpreted only literally. It can be a risk signal requiring clarification, containment, or a different internal route.
 
 ## Communication style and silence
 
@@ -53,7 +43,7 @@ Nishimura, Nevgi, and Tella (2008) describe Japanese communication as using fewe
 
 In low-context cultures such as the United States, silence can be uncomfortable. People may prefer to think aloud and use verbal expression to show feelings and intentions.
 
-Derived implication: a US manager should not automatically fill silence after presenting a platform recommendation. A better model-derived move is to pause, then ask a risk-focused question such as: "Which concern should we clarify before this is easy to discuss internally?"
+Application: a US manager should not automatically fill silence after presenting a platform recommendation. A model-informed move is to pause, then ask a risk-focused question such as: "Which concern should we clarify before this is easy to discuss internally?"
 
 ## Hall: monochronic vs polychronic time
 
@@ -61,7 +51,7 @@ Hall (1983) distinguished monochronic time, doing one thing at a time, from poly
 
 The useful comparison is therefore not "US is time-disciplined and Japan is not." Both can be understood as monochronic. The difference is the cultural meaning attached to timing. Wright and Drewery (2006) describe Japanese lateness as signaling a lack of concern for the team and lack of professionalism. In the United States, punctuality matters, but tardiness may sometimes be viewed through a lens of acceptable self-interest.
 
-Derived implication: deadlines and meeting timing in a Japanese context should signal reliability, preparedness, and respect for coordinated work, not only speed.
+Application: deadlines and meeting timing in a Japanese context should signal reliability, preparedness, and respect for coordinated work, not only speed.
 
 ## Trompenaars
 
@@ -70,24 +60,13 @@ Relevant dimensions: universalism / particularism, specific / diffuse, achieveme
 - United States tendency: rule-forward, task-bounded, achievement-oriented, and linear in next-step expectations.
 - Japan tendency in this training lens: rules still matter, but the route through role, relationship context, status, and coordinated dependencies can determine whether a recommendation travels.
 
-Derived implication for Google Advertising: global platform rules and performance metrics are not enough. The manager must understand who can support, explain, approve, implement, and defend the recommendation inside the Japanese organization.
+Application for Google Advertising: global platform rules and performance metrics are not enough. The manager must understand who can support, explain, approve, implement, and defend the recommendation inside the Japanese organization.
 
 ## World Values Survey / Inglehart-Welzel
 
 The WVS / Inglehart-Welzel lens is used for voice, authority, self-expression, and trust patterns. Beugelsdijk and Welzel (2018) synthesize Hofstede and Inglehart-style value dimensions and support the broader point that advanced societies can still differ in value priorities.
 
-Derived implication: US managers may treat public challenge and visible individual initiative as constructive. Japanese stakeholders may have real concerns that require safer channels than open disagreement in the meeting.
-
-# True comparison before recommendations
-
-The revised deck separates comparison from advice:
-
-- Hofstede comparison: authority, group alignment, risk containment, and long-term orientation.
-- Hall comparison: where meaning lives, how silence functions, and how time discipline is interpreted.
-- Trompenaars comparison: whether rules and metrics travel through the right role and relationship route.
-- WVS comparison: whether voice is expected publicly or needs a safer channel.
-
-Only after those comparisons does the deck present recommendations.
+Application: US managers may treat public challenge and visible individual initiative as constructive. Japanese stakeholders may have real concerns that require safer channels than open disagreement in the meeting.
 
 # Problem areas, by model
 
@@ -98,7 +77,7 @@ Only after those comparisons does the deck present recommendations.
 5. Timing is misread. Model: Hall monochronic time plus Wright and Drewery's discussion of different meanings of lateness.
 6. Short-term performance framing is too narrow. Model: Hofstede long-term orientation.
 
-# Model-derived operating guidelines
+# Model-informed operating guidelines
 
 ## Hall
 
@@ -116,7 +95,7 @@ Do not assume the formal buyer is the whole route. Map the formal owner, senior 
 
 Do not demand public dissent as proof of engagement. Create safe channels: pre-reads, written concern capture, private follow-up, and risk-framed questions.
 
-# Rationale matrix
+# Source matrix
 
 - High-context vs low-context: Hall; country placement and communication features from Nishimura, Nevgi, and Tella (2008). Explains indirect wording, silence, ambiguity, and reading between the lines.
 - Monochronic time: Hall (1983); Japan and US comparison from Wright and Drewery (2006), citing Levine and Bartlett (1984). Explains timing as reliability, team concern, and professionalism.
@@ -126,15 +105,13 @@ Do not demand public dissent as proof of engagement. Create safe channels: pre-r
 
 # Interactive elements
 
-The deck now includes repo-native interactions rather than an external polling tool:
-
 - A local model-diagnosis vote with aggregate room results stored in the facilitator browser.
 - A Hall signal-decoder quiz.
 - A dimension-sort exercise that maps business problems to models.
 - A stakeholder-map interaction tied to Trompenaars and Hofstede.
 - A proposal-lab interaction tied to Hofstede uncertainty avoidance.
 
-These interactions do not require a third-party polling tool. They are intentionally local to the deck; they do not collect phone-based votes from every attendee unless a backend is added later.
+The reasoning blocks use model names, relevant dimensions, comparison bars where data are available, and citations. Hofstede score bars use The Culture Factor country-comparison values, including US/Japan uncertainty avoidance, individualism, and power distance. Hall context bars are labeled as qualitative teaching scales because Hall/Nishimura provide categorical high-context / low-context placement rather than Hofstede-style numerical scores.
 
 # Reference list
 
