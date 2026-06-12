@@ -131,7 +131,7 @@ function show(i){current=(i+slides.length)%slides.length;slides.forEach((s,n)=>s
 document.getElementById('next').onclick=()=>show(current+1);document.getElementById('prev').onclick=()=>show(current-1);document.addEventListener('keydown',e=>{if(e.key==='ArrowRight'||e.key===' ')show(current+1);if(e.key==='ArrowLeft')show(current-1);});
 function toggleSources(){document.getElementById('drawer').classList.toggle('open')}document.getElementById('cites').onclick=toggleSources;document.getElementById('close').onclick=toggleSources;
 const cMap=new Map();slides.forEach((s,i)=>(s.dataset.cites||'').split('||').map(x=>x.trim()).filter(Boolean).forEach(c=>{if(!cMap.has(c))cMap.set(c,[]);cMap.get(c).push(i+1)}));document.getElementById('sourceList').innerHTML=[...cMap].map(([c,a])=>`<p><strong>${c}</strong><br><span class="tiny">Slides: ${a.join(', ')}</span></p>`).join('');
-const PHONE_TOPIC='google-japan-training-usjp-live-ready-v4';
+const PHONE_TOPIC='google-japan-training-usjp-live-final-8d2fe2f';
 const seenNtfyIds=new Set();const seenPayloadIds=new Set();const pollCache={};
 const voteAliases={'Hall: meaning outside words':'Hall: the signal was indirect / contextual','Hofstede: uncertainty/risk control':'Hofstede: the pilot felt under-controlled','Trompenaars: relationship/status route':'Trompenaars: the route through roles was wrong','WVS: safer public voice channel':'World Values Survey: disagreement needed a safer channel'};
 const toast=document.getElementById('toast');function flash(t){toast.textContent=t;toast.classList.add('show');setTimeout(()=>toast.classList.remove('show'),900)}
