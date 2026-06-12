@@ -1,0 +1,50 @@
+{
+  "created_at": "2026-06-12T11:19:18+0200",
+  "jobs": {
+    "training_room_us_japan_managers": {
+      "label": "training_room_us_japan_managers",
+      "model": "nano-banana-2",
+      "kind": "picture",
+      "prompt": "Photorealistic documentary-style training workshop scene for internal corporate manager training: a diverse group of US and Japanese advertising-platform managers in a bright modern meeting room, respectfully discussing a client advertising-space proposal with printed process sheets and sticky notes. Subtle US/Japan color cues through small red, navy, white accents and one clean Google-color accent strip, but NO Google logo, no readable brand text, no flags dominating, no stereotypes, no caricature, no kimono, no exaggerated bowing. Professional, realistic, balanced composition, wide 16:9.",
+      "submitted_at": "2026-06-12T11:19:18+0200",
+      "task_id": "f31f244b93665f8097ab42bb67606dee",
+      "state": "success_downloaded_after_retry",
+      "record": {},
+      "result_urls": [
+        "https://tempfile.aiquickdraw.com/images/1781255992365-qeefhzn8uwf.png"
+      ],
+      "finished_at": "2026-06-12T11:20:06+0200",
+      "file": "/Users/theo/google-japan-manager-training/assets/generated/training_room_us_japan_managers.png"
+    },
+    "cultural_bridge_system_map": {
+      "label": "cultural_bridge_system_map",
+      "model": "gpt-image-2-text-to-image",
+      "kind": "infographic",
+      "prompt": "Clean editorial infographic illustration without small readable text: an abstract bridge between a US-side business grid and a Japan-side consensus ring, connected by seven visual nodes: context, hierarchy, risk, trust, time, feedback, accountability. Use Google brand colors as small accent nodes only, plus US navy/red and Japan red/white/indigo. Flat vector, premium training deck style, no Google logo, no flags as literal large flags, no stereotypes, 16:9.",
+      "submitted_at": "2026-06-12T11:20:06+0200",
+      "task_id": "f1039cc99a2a00dd2514ad1ccf3a2753",
+      "state": "success_downloaded_after_retry",
+      "record": {},
+      "result_urls": [
+        "https://tempfile.aiquickdraw.com/images/chatgpt/f1039cc99a2a00dd2514ad1ccf3a2753_c00d00cffde94874b0169bce60cd5b05.png"
+      ],
+      "finished_at": "2026-06-12T11:21:24+0200",
+      "file": "/Users/theo/google-japan-manager-training/assets/generated/cultural_bridge_system_map.png"
+    },
+    "proposal_safety_protocol_infographic": {
+      "label": "proposal_safety_protocol_infographic",
+      "model": "gpt-image-2-text-to-image",
+      "kind": "infographic",
+      "prompt": "Premium flat vector infographic, no small readable text: a safe advertising-space proposal protocol shown as a sequence of seven simple abstract icons: rationale, stakeholder map, budget boundary, brand-safety check, approval gate, launch monitor, fallback path. White background, black text-free icon forms, small Google-color accent dots, US/JP red/navy/indigo highlights. Must feel like a corporate training slide, not a marketing poster. No logos, no flags, no stereotypes, 16:9.",
+      "submitted_at": "2026-06-12T11:21:24+0200",
+      "task_id": "79425d280b49306ad664530592a1753b",
+      "state": "success_downloaded_after_retry",
+      "record": {},
+      "result_urls": [
+        "https://tempfile.aiquickdraw.com/images/chatgpt/79425d280b49306ad664530592a1753b_394ad66edf114ca485df9dfddb487da6.png"
+      ],
+      "finished_at": "2026-06-12T11:22:26+0200",
+      "file": "/Users/theo/google-japan-manager-training/assets/generated/proposal_safety_protocol_infographic.png"
+    }
+  }
+}
