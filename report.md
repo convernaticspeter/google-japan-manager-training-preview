@@ -1,6 +1,6 @@
 ---
 title: "US Google Advertising Managers to Japan — Cultural Model Source Report"
-subtitle: "Hall, Hofstede, Trompenaars, and WVS/Inglehart-Welzel lenses for client-facing advertising-platform work"
+subtitle: "Hall, Hofstede, Trompenaars, and World Values Survey (WVS) / Inglehart-Welzel lenses for client-facing advertising-platform work"
 author: "Intercultural Competence and Diversity Training"
 ---
 
@@ -64,7 +64,7 @@ Application for Google Advertising: global platform rules and performance metric
 
 ## World Values Survey / Inglehart-Welzel
 
-The WVS / Inglehart-Welzel lens is used for voice, authority, self-expression, and trust patterns. Beugelsdijk and Welzel (2018) synthesize Hofstede and Inglehart-style value dimensions and support the broader point that advanced societies can still differ in value priorities.
+The World Values Survey (WVS) / Inglehart-Welzel lens is used for voice, authority, self-expression, and trust patterns. Beugelsdijk and Welzel (2018) synthesize Hofstede and Inglehart-style value dimensions and support the broader point that advanced societies can still differ in value priorities.
 
 Application: US managers may treat public challenge and visible individual initiative as constructive. Japanese stakeholders may have real concerns that require safer channels than open disagreement in the meeting.
 
@@ -73,7 +73,7 @@ Application: US managers may treat public challenge and visible individual initi
 1. Indirect concerns are missed. Model: Hall high-context / low-context.
 2. A platform pilot feels under-controlled. Model: Hofstede uncertainty avoidance.
 3. Global platform rules are introduced through the wrong route. Model: Trompenaars universalism / particularism and specific / diffuse.
-4. Public disagreement is requested in an unsafe channel. Model: WVS / self-expression and voice.
+4. Public disagreement is requested in an unsafe channel. Model: World Values Survey (WVS) / self-expression and voice.
 5. Timing is misread. Model: Hall monochronic time plus Wright and Drewery's discussion of different meanings of lateness.
 6. Short-term performance framing is too narrow. Model: Hofstede long-term orientation.
 
@@ -91,7 +91,7 @@ Do not frame a platform pilot as a vague experiment. Define the advertising inve
 
 Do not assume the formal buyer is the whole route. Map the formal owner, senior sponsor, agency translator, implementation owner, finance/procurement concern, and possible quiet dissenter.
 
-## WVS / Inglehart-Welzel
+## World Values Survey (WVS) / Inglehart-Welzel
 
 Do not demand public dissent as proof of engagement. Create safe channels: pre-reads, written concern capture, private follow-up, and risk-framed questions.
 
@@ -101,7 +101,7 @@ Do not demand public dissent as proof of engagement. Create safe channels: pre-r
 - Monochronic time: Hall (1983); Japan and US comparison from Wright and Drewery (2006), citing Levine and Bartlett (1984). Explains timing as reliability, team concern, and professionalism.
 - Power distance, individualism, uncertainty avoidance, long-term orientation: Hofstede (1983, 1984), The Culture Factor country comparison, and Taras, Kirkman, and Steel (2010). Explains hierarchy, group alignment, risk containment, and continuity framing.
 - Universalism / particularism, specific / diffuse, achievement / ascription, sequential / synchronic time: Trompenaars and Hampden-Turner (1997). Explains rule route, relationship scope, status, and dependency path.
-- Self-expression, authority, and voice: WVS / Inglehart-Welzel and Beugelsdijk and Welzel (2018). Explains public voice assumptions and safer disagreement channels.
+- Self-expression, authority, and voice: World Values Survey (WVS) / Inglehart-Welzel and Beugelsdijk and Welzel (2018). Explains public voice assumptions and safer disagreement channels.
 
 # Interactive elements
 
