@@ -1,6 +1,6 @@
 ---
-title: "US Google Advertising Managers to Japan — Model-Grounded Training Report"
-subtitle: "Hofstede, Hall, Trompenaars, and World Values Survey / Inglehart-Welzel"
+title: "US Google Advertising Managers to Japan — Manager Field Guide Source Report"
+subtitle: "Behavioral recommendations with cultural-model rationale"
 author: "Intercultural Competence and Diversity Training"
 date: "June 2026"
 lang: en
@@ -10,13 +10,13 @@ lang: en
 
 This report trains managers from a **United States Google Advertising organization** who are being sent to **Japan**. The sector is digital advertising platform sales: managers sell advertising space, audience access, bidding, measurement, and platform advertising solutions. Advertisers remain responsible for their end-to-end creative and media execution.
 
-The analysis is deliberately grounded in the four required cultural models only: Hofstede, Hall, Trompenaars, and the World Values Survey / Inglehart-Welzel cultural map. The models do not define individuals. They provide structured hypotheses for preparation, comparison, risk identification, and guideline development.
+The analysis uses Hofstede, Hall, Trompenaars, and the World Values Survey / Inglehart-Welzel cultural map as supporting rationale. The visible training should not revolve around model names. The models do not define individuals; they explain why the recommended manager behaviors are likely to work.
 
 The core recommendation is: **make US speed legible as Japanese-quality control**. In practice this means pre-alignment before formal meetings, explicit risk boundaries, hierarchy-aware communication, private concern channels, and long-term trust/reputation framing.
 
 # 1. Home culture and sector
 
-The home culture is the **United States**. The sector is **advertising platform sales** inside Google Advertising. The relevant management task is not campaign development for advertisers but the sale and support of platform advertising solutions.
+The home culture is the **United States**. The sector is **advertising platform sales** inside Google Advertising. The relevant management task is the sale and support of platform advertising solutions while advertisers remain responsible for their own creative and media execution.
 
 The US-side operating style is likely to include explicit communication, direct action orientation, lower tolerance for unclear ownership, and a preference for measurable next steps. These are model-based tendencies, not universal descriptions of every US manager.
 
