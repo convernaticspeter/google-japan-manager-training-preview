@@ -1,0 +1,148 @@
+{
+  "created_at": "2026-06-12T12:36:38",
+  "model": "nano-banana-2",
+  "scenes": {
+    "cover-room-signals": {
+      "prompt": "Premium editorial training deck illustration, horizontal 16:9. A modern business meeting table seen from slightly above, subtle Google colour accents as small abstract dots and tabs, American and Japanese cultural cues through paper texture, red sun circle, blue linework, careful eye contact and silence. Human manager training mood, sophisticated, cinematic but clean, no logos, no readable text, no fake UI text, no watermarks.",
+      "task_id": "8107e6505a42c4316c1a5957b8936ac3",
+      "create_response": {
+        "code": 200,
+        "msg": "success",
+        "data": {
+          "taskId": "8107e6505a42c4316c1a5957b8936ac3",
+          "recordId": "8107e6505a42c4316c1a5957b8936ac3"
+        }
+      },
+      "state": "success",
+      "last_info": {
+        "code": 200,
+        "msg": "success",
+        "data": {
+          "taskId": "8107e6505a42c4316c1a5957b8936ac3",
+          "model": "nano-banana-2",
+          "state": "success",
+          "param": "{\"input\":\"{\\\"aspect_ratio\\\":\\\"16:9\\\",\\\"output_format\\\":\\\"png\\\",\\\"prompt\\\":\\\"Premium editorial training deck illustration, horizontal 16:9. A modern business meeting table seen from slightly above, subtle Google colour accents as small abstract dots and tabs, American and Japanese cultural cues through paper texture, red sun circle, blue linework, careful eye contact and silence. Human manager training mood, sophisticated, cinematic but clean, no logos, no readable text, no fake UI text, no watermarks.\\\"}\",\"model\":\"nano-banana-2\"}",
+          "resultJson": "{\"resultUrls\":[\"https://tempfile.aiquickdraw.com/ggc/8107e6505a42c4316c1a5957b8936ac3_1781260659820.png\"]}",
+          "failCode": null,
+          "failMsg": null,
+          "costTime": 61,
+          "completeTime": 1781260660824,
+          "createTime": 1781260599276,
+          "creditsConsumed": 8.0
+        }
+      },
+      "result_url": "https://tempfile.aiquickdraw.com/ggc/8107e6505a42c4316c1a5957b8936ac3_1781260659820.png",
+      "urls": [
+        "https://tempfile.aiquickdraw.com/ggc/8107e6505a42c4316c1a5957b8936ac3_1781260659820.png"
+      ],
+      "file": "dist/assets/kie-workshop/cover-room-signals.png"
+    },
+    "consensus-web": {
+      "prompt": "High-end business infographic illustration, horizontal 16:9. A Japanese consensus decision web: multiple people represented as elegant abstract nodes around a central recommendation document, red circle motif, dark navy connecting lines, paper grain, calm corporate workshop aesthetic. Show consensus as risk distribution, not bureaucracy. No readable words, no logos, no watermarks.",
+      "task_id": "70db0b71b550961c1680cc3981a2f8d3",
+      "create_response": {
+        "code": 200,
+        "msg": "success",
+        "data": {
+          "taskId": "70db0b71b550961c1680cc3981a2f8d3",
+          "recordId": "70db0b71b550961c1680cc3981a2f8d3"
+        }
+      },
+      "state": "success",
+      "last_info": {
+        "code": 200,
+        "msg": "success",
+        "data": {
+          "taskId": "70db0b71b550961c1680cc3981a2f8d3",
+          "model": "nano-banana-2",
+          "state": "success",
+          "param": "{\"input\":\"{\\\"aspect_ratio\\\":\\\"16:9\\\",\\\"output_format\\\":\\\"png\\\",\\\"prompt\\\":\\\"High-end business infographic illustration, horizontal 16:9. A Japanese consensus decision web: multiple people represented as elegant abstract nodes around a central recommendation document, red circle motif, dark navy connecting lines, paper grain, calm corporate workshop aesthetic. Show consensus as risk distribution, not bureaucracy. No readable words, no logos, no watermarks.\\\"}\",\"model\":\"nano-banana-2\"}",
+          "resultJson": "{\"resultUrls\":[\"https://tempfile.aiquickdraw.com/ggc/70db0b71b550961c1680cc3981a2f8d3_1781260622969.png\"]}",
+          "failCode": null,
+          "failMsg": null,
+          "costTime": 23,
+          "completeTime": 1781260623654,
+          "createTime": 1781260599682,
+          "creditsConsumed": 8.0
+        }
+      },
+      "result_url": "https://tempfile.aiquickdraw.com/ggc/70db0b71b550961c1680cc3981a2f8d3_1781260622969.png",
+      "urls": [
+        "https://tempfile.aiquickdraw.com/ggc/70db0b71b550961c1680cc3981a2f8d3_1781260622969.png"
+      ],
+      "file": "dist/assets/kie-workshop/consensus-web.png"
+    },
+    "signal-decoder": {
+      "prompt": "Elegant intercultural communication training illustration, horizontal 16:9. Two-layer signal decoder metaphor: polite spoken phrase as a soft speech shape on top, deeper hidden concern/risk layer below, Japanese red sun circle and US blue line accents, premium consulting deck style, minimal, warm paper background, no readable text, no logos, no watermarks.",
+      "task_id": "fb37e279827311a07077ea9dae0cc289",
+      "create_response": {
+        "code": 200,
+        "msg": "success",
+        "data": {
+          "taskId": "fb37e279827311a07077ea9dae0cc289",
+          "recordId": "fb37e279827311a07077ea9dae0cc289"
+        }
+      },
+      "state": "success",
+      "last_info": {
+        "code": 200,
+        "msg": "success",
+        "data": {
+          "taskId": "fb37e279827311a07077ea9dae0cc289",
+          "model": "nano-banana-2",
+          "state": "success",
+          "param": "{\"input\":\"{\\\"aspect_ratio\\\":\\\"16:9\\\",\\\"output_format\\\":\\\"png\\\",\\\"prompt\\\":\\\"Elegant intercultural communication training illustration, horizontal 16:9. Two-layer signal decoder metaphor: polite spoken phrase as a soft speech shape on top, deeper hidden concern/risk layer below, Japanese red sun circle and US blue line accents, premium consulting deck style, minimal, warm paper background, no readable text, no logos, no watermarks.\\\"}\",\"model\":\"nano-banana-2\"}",
+          "resultJson": "{\"resultUrls\":[\"https://tempfile.aiquickdraw.com/ggc/fb37e279827311a07077ea9dae0cc289_1781260622847.png\"]}",
+          "failCode": null,
+          "failMsg": null,
+          "costTime": 23,
+          "completeTime": 1781260623494,
+          "createTime": 1781260600019,
+          "creditsConsumed": 8.0
+        }
+      },
+      "result_url": "https://tempfile.aiquickdraw.com/ggc/fb37e279827311a07077ea9dae0cc289_1781260622847.png",
+      "urls": [
+        "https://tempfile.aiquickdraw.com/ggc/fb37e279827311a07077ea9dae0cc289_1781260622847.png"
+      ],
+      "file": "dist/assets/kie-workshop/signal-decoder.png"
+    },
+    "carry-recommendation": {
+      "prompt": "Premium manager training illustration, horizontal 16:9. A recommendation card being passed safely through a network of stakeholders, with protective rings, green confidence signal, red risk marker, blue clarity path, Japan-inspired paper and seal motifs. Concept: make the recommendation easy to carry internally. No readable text, no logos, no watermarks.",
+      "task_id": "d7b4f92117c014c62df2a53e83f4671b",
+      "create_response": {
+        "code": 200,
+        "msg": "success",
+        "data": {
+          "taskId": "d7b4f92117c014c62df2a53e83f4671b",
+          "recordId": "d7b4f92117c014c62df2a53e83f4671b"
+        }
+      },
+      "state": "success",
+      "last_info": {
+        "code": 200,
+        "msg": "success",
+        "data": {
+          "taskId": "d7b4f92117c014c62df2a53e83f4671b",
+          "model": "nano-banana-2",
+          "state": "success",
+          "param": "{\"input\":\"{\\\"aspect_ratio\\\":\\\"16:9\\\",\\\"output_format\\\":\\\"png\\\",\\\"prompt\\\":\\\"Premium manager training illustration, horizontal 16:9. A recommendation card being passed safely through a network of stakeholders, with protective rings, green confidence signal, red risk marker, blue clarity path, Japan-inspired paper and seal motifs. Concept: make the recommendation easy to carry internally. No readable text, no logos, no watermarks.\\\"}\",\"model\":\"nano-banana-2\"}",
+          "resultJson": "{\"resultUrls\":[\"https://tempfile.aiquickdraw.com/ggc/d7b4f92117c014c62df2a53e83f4671b_1781260622618.png\"]}",
+          "failCode": null,
+          "failMsg": null,
+          "costTime": 23,
+          "completeTime": 1781260623352,
+          "createTime": 1781260600396,
+          "creditsConsumed": 8.0
+        }
+      },
+      "result_url": "https://tempfile.aiquickdraw.com/ggc/d7b4f92117c014c62df2a53e83f4671b_1781260622618.png",
+      "urls": [
+        "https://tempfile.aiquickdraw.com/ggc/d7b4f92117c014c62df2a53e83f4671b_1781260622618.png"
+      ],
+      "file": "dist/assets/kie-workshop/carry-recommendation.png"
+    }
+  },
+  "finished_at": "2026-06-12T12:36:41",
+  "pending_at_end": []
+}
