@@ -117,11 +117,11 @@ Do not demand public dissent as proof of engagement. Create safe channels: pre-r
 
 # Interactive elements
 
-- A global model-diagnosis vote: phone responses are sent through a live event channel, replayed from the event stream, and aggregated on the facilitator slide.
-- A Hall signal-decoder quiz.
-- A dimension-sort exercise that maps business problems to models.
-- A stakeholder-map interaction tied to Trompenaars and Hofstede.
-- A proposal-lab interaction tied to Hofstede uncertainty avoidance.
+- A phone-first model-diagnosis vote, with the vote prompt separated from the live result graph.
+- A separate Hofstede/Hall explanation slide so the voting rationale is readable in the room.
+- A Hall signal-decoder quiz kept as a short practice moment.
+- A Trompenaars decision-path slide focused on proposal routing and role-safe consensus.
+- A redesigned safe-test card that turns a vague platform pilot into scope, fallback, cadence, and quality-gate elements.
 
 The reasoning blocks use model names, relevant dimensions, comparison bars where data are available, and citations. Hofstede score bars use Hofstede-style US/Japan comparison values from Hofstede 1984 and Hofstede et al. 2010, with Taras et al. 2010 as the cautionary meta-analytic source. Hall context bars are labeled as qualitative teaching scales because Hall, Hall and Hall, Gudykunst and Nishida, and Lebra provide categorical high-context / low-context placement and communication evidence rather than Hofstede-style numerical scores.
 
