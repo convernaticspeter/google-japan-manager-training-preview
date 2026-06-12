@@ -184,6 +184,9 @@ header{position:fixed;z-index:70;top:4px;left:0;right:0;background:rgba(255,255,
 .qr-card{background:var(--g-white);border:1px solid var(--g-line);border-radius:var(--radius-md);padding:24px;text-align:center;box-shadow:var(--elev-1)}
 .qr-card img{width:240px;height:240px;border-radius:var(--radius-sm);display:block;margin:0 auto 12px}
 .qr-card p{font-size:13px;color:var(--g-grey-700);margin:0}
+.vote-count-card{margin:16px auto 0;padding:14px 16px;border-radius:var(--radius-md);background:var(--g-blue-50);border:1px solid #D2E3FC;color:var(--g-blue-700);display:flex;align-items:baseline;justify-content:center;gap:8px}
+.vote-count-card b{font-size:32px;line-height:1;font-weight:500;font-variant-numeric:tabular-nums;color:var(--g-blue)}
+.vote-count-card span{font-size:13px;font-weight:500;color:var(--g-blue-700)}
 .compact-list{font-size:15.5px;line-height:1.6;color:var(--g-grey-800);margin:0;padding-left:20px}
 .compact-list li{margin:8px 0}
 
@@ -294,6 +297,7 @@ header{position:fixed;z-index:70;top:4px;left:0;right:0;background:rgba(255,255,
 /* Tighten QR card padding slightly and align caption */
 .qr-card img{margin-bottom:16px}
 .qr-card p{font-size:12px;color:var(--g-grey-600)}
+.qr-card .vote-count-card span{color:var(--g-blue-700)}
 
 /* References as small hover list */
 .slide .references{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:1fr 1fr;gap:8px 24px}
@@ -314,7 +318,7 @@ header{position:fixed;z-index:70;top:4px;left:0;right:0;background:rgba(255,255,
 <p class="lead">Vote on your phone first. We use the result as the entry point, then read the same situation through the model lens.</p>
 <ul class="compact-list"><li>Hall: the signal was indirect / contextual</li><li>Hofstede: the proposal felt under-controlled</li><li>Trompenaars: the route through roles was wrong</li><li>World Values Survey: disagreement needed a safer channel</li></ul>
 </div>
-<div class="qr-card"><img alt="QR code for phone vote" src="assets/phone-qr.png"/><p>Scan once, then choose the question on your phone.</p></div>
+<div class="qr-card"><img alt="QR code for phone vote" src="assets/phone-qr.png"/><p>Scan once, then choose the question on your phone.</p><div class="vote-count-card" data-vote-count-for="diagnosis"><b>0</b><span>votes so far</span></div></div>
 </div>
 </article><article class="slide" data-title="Diagnosis results">
 <div class="kicker">Readout</div>
@@ -331,7 +335,7 @@ header{position:fixed;z-index:70;top:4px;left:0;right:0;background:rgba(255,255,
 <p class="lead">Vote on your phone first. We use the result as the entry point, then read the same situation through the model lens.</p>
 <ul class="compact-list"><li>Ask what risk or condition must be resolved</li><li>Push for a launch date because nobody objected</li><li>Ask for a clear yes/no in the room</li><li>Assume the proposal is rejected</li></ul>
 </div>
-<div class="qr-card"><img alt="QR code for phone vote" src="assets/phone-qr.png"/><p>Scan once, then choose the question on your phone.</p></div>
+<div class="qr-card"><img alt="QR code for phone vote" src="assets/phone-qr.png"/><p>Scan once, then choose the question on your phone.</p><div class="vote-count-card" data-vote-count-for="hall_signal"><b>0</b><span>votes so far</span></div></div>
 </div>
 </article><article class="slide" data-title="Hall results">
 <div class="kicker">Readout</div>
@@ -348,7 +352,7 @@ header{position:fixed;z-index:70;top:4px;left:0;right:0;background:rgba(255,255,
 <p class="lead">Vote on your phone first. We use the result as the entry point, then read the same situation through the model lens.</p>
 <ul class="compact-list"><li>Map who must be comfortable before the next step</li><li>Ask for one final decision owner immediately</li><li>Send a shorter deck and wait</li><li>Escalate because the room was non-committal</li></ul>
 </div>
-<div class="qr-card"><img alt="QR code for phone vote" src="assets/phone-qr.png"/><p>Scan once, then choose the question on your phone.</p></div>
+<div class="qr-card"><img alt="QR code for phone vote" src="assets/phone-qr.png"/><p>Scan once, then choose the question on your phone.</p><div class="vote-count-card" data-vote-count-for="route"><b>0</b><span>votes so far</span></div></div>
 </div>
 </article><article class="slide" data-title="Trompenaars results">
 <div class="kicker">Readout</div>
@@ -365,7 +369,7 @@ header{position:fixed;z-index:70;top:4px;left:0;right:0;background:rgba(255,255,
 <p class="lead">Vote on your phone first. We use the result as the entry point, then read the same situation through the model lens.</p>
 <ul class="compact-list"><li>Use a private risk-check or written concerns round</li><li>Ask everyone to challenge the plan publicly</li><li>Treat silence as agreement</li><li>Avoid mentioning disagreement again</li></ul>
 </div>
-<div class="qr-card"><img alt="QR code for phone vote" src="assets/phone-qr.png"/><p>Scan once, then choose the question on your phone.</p></div>
+<div class="qr-card"><img alt="QR code for phone vote" src="assets/phone-qr.png"/><p>Scan once, then choose the question on your phone.</p><div class="vote-count-card" data-vote-count-for="voice"><b>0</b><span>votes so far</span></div></div>
 </div>
 </article><article class="slide" data-title="WVS results">
 <div class="kicker">Readout</div>
@@ -405,7 +409,8 @@ const toast=document.getElementById('toast');function flash(t){toast.textContent
 function ownVoteKey(p){return 'usjp_vote_'+p+'_'+PHONE_TOPIC}function getOwnVote(p){return localStorage.getItem(ownVoteKey(p))||''}function normalizeVote(v){return voteAliases[v]||v}
 function ensurePoll(p){if(!pollCache[p])pollCache[p]={};return pollCache[p]}
 function addPollValue(p,v){const d=ensurePoll(p), value=normalizeVote(v);d[value]=(d[value]||0)+1;renderPoll(p)}
-function renderPoll(p){const box=document.getElementById(p+'Results');if(!box)return;const d=ensurePoll(p);let vals=(box.dataset.values||"").split("|").filter(Boolean);if(!vals.length)vals=[...document.querySelectorAll(`[data-poll-options="${p}"] .vote-option`)].map(x=>x.dataset.value);if(!vals.length)vals=[...document.querySelectorAll(`[data-poll="${p}"] .vote`)].map(x=>x.dataset.value);const total=vals.reduce((a,v)=>a+(d[v]||0),0);box.innerHTML=vals.map(v=>{const n=d[v]||0,pct=total?Math.round(n/total*100):0;return `<div class="vote-row"><div class="vote-label">${v}</div><div class="vote-track"><div class="vote-fill" style="width:${pct}%"></div></div><div class="vote-count">${n} · ${pct}%</div></div>`}).join('')+(total?`<p class="tiny">Global room votes: ${total}</p>`:'<p class="tiny">No votes yet.</p>');document.querySelectorAll(`[data-poll="${p}"] .vote`).forEach(b=>{const chosen=getOwnVote(p);b.disabled=!!chosen;b.classList.toggle('selected',chosen===b.dataset.value);});}
+function updateVoteCounts(p,total){document.querySelectorAll(`[data-vote-count-for="${p}"]`).forEach(el=>{const n=el.querySelector('b'),label=el.querySelector('span');if(n)n.textContent=String(total);if(label)label.textContent=total===1?'vote so far':'votes so far';});}
+function renderPoll(p){const box=document.getElementById(p+'Results');const d=ensurePoll(p);let vals=[];if(box)vals=(box.dataset.values||"").split("|").filter(Boolean);if(!vals.length)vals=[...document.querySelectorAll(`[data-poll-options="${p}"] .vote-option`)].map(x=>x.dataset.value);if(!vals.length)vals=[...document.querySelectorAll(`[data-poll="${p}"] .vote`)].map(x=>x.dataset.value);if(!vals.length)vals=Object.keys(d);const total=vals.reduce((a,v)=>a+(d[v]||0),0);updateVoteCounts(p,total);if(!box)return;box.innerHTML=vals.map(v=>{const n=d[v]||0,pct=total?Math.round(n/total*100):0;return `<div class="vote-row"><div class="vote-label">${v}</div><div class="vote-track"><div class="vote-fill" style="width:${pct}%"></div></div><div class="vote-count">${n} · ${pct}%</div></div>`}).join('')+(total?`<p class="tiny">Global room votes: ${total}</p>`:'<p class="tiny">No votes yet.</p>');document.querySelectorAll(`[data-poll="${p}"] .vote`).forEach(b=>{const chosen=getOwnVote(p);b.disabled=!!chosen;b.classList.toggle('selected',chosen===b.dataset.value);});}
 async function publishEvent(payload){payload.ts=Date.now();payload.eventId=payload.eventId||Math.random().toString(36).slice(2)+Date.now().toString(36);await Promise.allSettled(PHONE_TOPICS.map(t=>fetch('https://ntfy.sh/'+t,{method:'POST',mode:'no-cors',body:JSON.stringify(payload)})));return payload}
 async function castLocalVote(p,value){if(getOwnVote(p)){flash('Already voted on this question');return}const payload=await publishEvent({type:'poll',poll:p,value:value,sender:'facilitator'});localStorage.setItem(ownVoteKey(p),value);applyLivePayload(payload);renderPoll(p);flash('Vote saved globally')}
 document.querySelectorAll('[data-poll] .vote').forEach(b=>b.onclick=()=>castLocalVote(b.closest('[data-poll]').dataset.poll,b.dataset.value));
