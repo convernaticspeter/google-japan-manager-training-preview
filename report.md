@@ -10,6 +10,8 @@ This training is for US Google Advertising managers working with Japanese collea
 
 The workshop compares US and Japanese business communication through named cultural models, then applies those models to client-facing platform proposals, stakeholder alignment, risk discussion, and meeting behavior.
 
+This revision integrates the added source document from user-provided sources. The main additions are Mitrović (2017) for Japan-specific Hofstede/Trompenaars/Hall application evidence, Koopmann-Holm and Tsai (2014) for a caution against universalizing US-style positive emotional framing, and Majidi et al. (2015) for model-limit language around cultural scores and changing national cultures.
+
 # Scenario
 
 A US Google Advertising manager presents a Google Ads platform pilot. The Japanese client team is polite, asks few questions, and does not object. The next step slows down.
@@ -20,26 +22,26 @@ The training question is: which cultural model best explains what the US manager
 
 ## Hofstede
 
-Relevant dimensions: power distance, individualism / collectivism, uncertainty avoidance, and long-term orientation.
+Relevant dimensions: power distance, individualism / collectivism, uncertainty avoidance, masculinity / achievement orientation, long-term orientation, and indulgence / restraint. Mitrović (2017) adds Japan-focused interpretation for these dimensions and supports using preparation, hierarchy mapping, risk boundaries, and long-term trust as practical training implications.
 
 - United States tendency: more comfort with accessible leadership, direct challenge, individual ownership, explicit accountability, and test-and-learn experimentation.
 - Japan tendency: more attention to hierarchy, role, seniority, group alignment, uncertainty control, and long-term quality/reputation logic.
 
-Application for Google Advertising: a platform pilot that feels like ordinary experimentation to a US manager may feel under-controlled to Japanese stakeholders unless scope, fallback, reporting cadence, and approval path are explicit.
+Application for Google Advertising: a platform pilot that feels like ordinary experimentation to a US manager may feel under-controlled to Japanese stakeholders unless scope, fallback, reporting cadence, approval path, quality gate, and reputation protection are explicit. Mitrović (2017) also supports emphasizing disciplined execution and team quality rather than only individual hero ownership.
 
 ## Hall: high-context vs low-context communication
 
 Hall's model distinguishes high-context communication, where much meaning is carried by context and shared knowledge, from low-context communication, where meaning is primarily explicit in words.
 
-Hall and Hall (1987), Gudykunst and Nishida (1986), and Lebra (1987) support the Japan high-context communication lens: meaning can depend on situation, relationship, status, nonverbal signals, silence, and what is intentionally left unsaid. Listeners are expected to read context as well as words.
+Hall and Hall (1987), Gudykunst and Nishida (1986), Lebra (1987), and Mitrović (2017) support the Japan high-context communication lens: meaning can depend on situation, relationship, status, nonverbal signals, silence, and what is intentionally left unsaid. Listeners are expected to read context as well as words.
 
 The United States is treated as a low-context culture in which meanings are explicitly stated through language. Communication is direct, precise, and reliant on extensive verbal expression to ensure clarity.
 
 Application for Google Advertising: a polite phrase such as "This may be difficult" or "We will consider it" should not be interpreted only literally. It can be a risk signal requiring clarification, containment, or a different internal route.
 
-## Communication style and silence
+## Communication style, silence, and nonverbal context
 
-Lebra (1987), Hall and Hall (1987), and Graham and Sano (1989) support treating silence, indirect concern, face, and turn-taking as meaningful features of Japanese business communication rather than as empty gaps.
+Lebra (1987), Hall and Hall (1987), Graham and Sano (1989), and Mitrović (2017) support treating silence, indirect concern, eye contact, tone, face, body language, and turn-taking as meaningful features of Japanese business communication rather than as empty gaps.
 
 In low-context cultures such as the United States, silence can be uncomfortable. People may prefer to think aloud and use verbal expression to show feelings and intentions.
 
@@ -67,6 +69,16 @@ Application for Google Advertising: global platform rules and performance metric
 The World Values Survey (WVS) / Inglehart-Welzel lens is used for voice, authority, self-expression, and trust patterns. Beugelsdijk and Welzel (2018) synthesize Hofstede and Inglehart-style value dimensions and support the broader point that advanced societies can still differ in value priorities.
 
 Application: US managers may treat public challenge and visible individual initiative as constructive. Japanese stakeholders may have real concerns that require safer channels than open disagreement in the meeting.
+
+## Emotion and positivity caution
+
+Koopmann-Holm and Tsai (2014) show that cultures differ in desired emotional states and sympathy expression. Their source is not Japan-specific, so it should not be used as direct evidence about Japanese behavior. Its useful training implication is narrower: US-style positive reframing is culturally shaped and should not be treated as universal.
+
+Application for Google Advertising: when a Japanese client or partner raises risk, the safer move is calm acknowledgement plus control design — scope, fallback, quality gate, reporting cadence — rather than optimistic pressure or enthusiasm.
+
+## Model limits and anti-stereotyping
+
+Majidi et al. (2015), Taras et al. (2010), and Kirkman et al. (2017) support explicit model-limit language. National-culture models are useful starting hypotheses for training, not deterministic labels for individuals or companies. Scores and cultural patterns should be validated with local Google Japan colleagues and current client context.
 
 # Problem areas, by model
 
@@ -105,7 +117,7 @@ Do not demand public dissent as proof of engagement. Create safe channels: pre-r
 
 # Interactive elements
 
-- A local model-diagnosis vote with aggregate room results stored in the facilitator browser.
+- A global model-diagnosis vote: phone responses are sent through a live event channel, replayed from the event stream, and aggregated on the facilitator slide.
 - A Hall signal-decoder quiz.
 - A dimension-sort exercise that maps business problems to models.
 - A stakeholder-map interaction tied to Trompenaars and Hofstede.
@@ -123,7 +135,11 @@ Graham, J. L., & Sano, Y. (1989). Beware of Japanese negotiation style: How to n
 
 Gudykunst, W. B., & Nishida, T. (1986). Attributional confidence in low- and high-context cultures. *Human Communication Research, 12*(4), 525–549. https://doi.org/10.1111/j.1468-2958.1986.tb00090.x
 
+Hall, E. T. (1966). *The hidden dimension*. Doubleday.
+
 Hall, E. T. (1976). *Beyond Culture*. Anchor Books.
+
+Hall, E. T. (1983). *The dance of life: The other dimension of time*. Anchor Press/Doubleday.
 
 Hall, E. T., & Hall, M. R. (1987). *Hidden Differences: Doing business with the Japanese*. Anchor Press/Doubleday.
 
