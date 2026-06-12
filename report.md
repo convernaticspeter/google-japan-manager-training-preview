@@ -1,20 +1,20 @@
 ---
 title: "US Google Advertising Managers to Japan — Cultural Model Source Report"
-subtitle: "Hall, Hofstede, Trompenaars, and World Values Survey (WVS) / Inglehart-Welzel lenses for client-facing advertising-platform work"
+subtitle: "Hall, Hofstede, Trompenaars, and World Values Survey (WVS) / Inglehart-Welzel lenses for client-facing cross-cultural client work"
 author: "Intercultural Competence and Diversity Training"
 ---
 
 # Executive summary
 
-This training is for US Google Advertising managers working with Japanese colleagues, agencies, and clients. The commercial context is Google Advertising: advertising inventory, platform access, bidding and targeting capabilities, measurement confidence, and controlled platform pilots.
+This training is for US Google Advertising managers working with Japanese colleagues, agencies, and clients. The context is cross-cultural client work for Google Advertising managers: proposals, measurement confidence, internal alignment, and controlled follow-through.
 
-The workshop compares US and Japanese business communication through named cultural models, then applies those models to client-facing platform proposals, stakeholder alignment, risk discussion, and meeting behavior.
+The workshop compares US and Japanese business communication through named cultural models, then applies those models to client-facing proposals, stakeholder alignment, risk discussion, and meeting behavior.
 
 This revision integrates the added source document from user-provided sources. The main additions are Mitrović (2017) for Japan-specific Hofstede/Trompenaars/Hall application evidence, Koopmann-Holm and Tsai (2014) for a caution against universalizing US-style positive emotional framing, and Majidi et al. (2015) for model-limit language around cultural scores and changing national cultures.
 
 # Scenario
 
-A US Google Advertising manager presents a Google Ads platform pilot. The Japanese client team is polite, asks few questions, and does not object. The next step slows down.
+A US Google Advertising manager presents a Google Ads proposal. The Japanese client team is polite, asks few questions, and does not object. The next step slows down.
 
 The training question is: which cultural model best explains what the US manager may be missing?
 
@@ -27,7 +27,7 @@ Relevant dimensions: power distance, individualism / collectivism, uncertainty a
 - United States tendency: more comfort with accessible leadership, direct challenge, individual ownership, explicit accountability, and test-and-learn experimentation.
 - Japan tendency: more attention to hierarchy, role, seniority, group alignment, uncertainty control, and long-term quality/reputation logic.
 
-Application for Google Advertising: a platform pilot that feels like ordinary experimentation to a US manager may feel under-controlled to Japanese stakeholders unless scope, fallback, reporting cadence, approval path, quality gate, and reputation protection are explicit. Mitrović (2017) also supports emphasizing disciplined execution and team quality rather than only individual hero ownership.
+Application for Google Advertising: a proposal that feels like ordinary experimentation to a US manager may feel under-controlled to Japanese stakeholders unless scope, fallback, reporting cadence, approval path, quality gate, and reputation protection are explicit. Mitrović (2017) also supports emphasizing disciplined execution and team quality rather than only individual hero ownership.
 
 ## Hall: high-context vs low-context communication
 
@@ -45,7 +45,7 @@ Lebra (1987), Hall and Hall (1987), Graham and Sano (1989), and Mitrović (2017)
 
 In low-context cultures such as the United States, silence can be uncomfortable. People may prefer to think aloud and use verbal expression to show feelings and intentions.
 
-Application: a US manager should not automatically fill silence after presenting a platform recommendation. A model-informed move is to pause, then ask a risk-focused question such as: "Which concern should we clarify before this is easy to discuss internally?"
+Application: a US manager should not automatically fill silence after presenting a proposal. A model-informed move is to pause, then ask a risk-focused question such as: "Which concern should we clarify before this is easy to discuss internally?"
 
 ## Hall: monochronic vs polychronic time
 
@@ -62,7 +62,7 @@ Relevant dimensions: universalism / particularism, specific / diffuse, achieveme
 - United States tendency: rule-forward, task-bounded, achievement-oriented, and linear in next-step expectations.
 - Japan tendency in this training lens: rules still matter, but the route through role, relationship context, status, and coordinated dependencies can determine whether a recommendation travels.
 
-Application for Google Advertising: global platform rules and performance metrics are not enough. The manager must understand who can support, explain, approve, implement, and defend the recommendation inside the Japanese organization.
+Application: global rules and performance metrics are not enough. The manager must understand who can support, explain, approve, implement, and defend the recommendation inside the Japanese organization.
 
 ## World Values Survey / Inglehart-Welzel
 
@@ -83,7 +83,7 @@ Majidi et al. (2015), Taras et al. (2010), and Kirkman et al. (2017) support exp
 # Problem areas, by model
 
 1. Indirect concerns are missed. Model: Hall high-context / low-context.
-2. A platform pilot feels under-controlled. Model: Hofstede uncertainty avoidance.
+2. A proposal feels under-controlled. Model: Hofstede uncertainty avoidance.
 3. Global platform rules are introduced through the wrong route. Model: Trompenaars universalism / particularism and specific / diffuse.
 4. Public disagreement is requested in an unsafe channel. Model: World Values Survey (WVS) / self-expression and voice.
 5. Timing is misread. Model: Hall chronemics plus Graham and Sano’s preparation/alignment lens.
@@ -97,7 +97,7 @@ Do not treat silence as empty. Pause after important questions. Ask what remains
 
 ## Hofstede
 
-Do not frame a platform pilot as a vague experiment. Define the advertising inventory / audience scope, budget, reporting cadence, fallback, approval path, and quality gate.
+Do not frame a proposal as a vague experiment. Define scope, budget, reporting cadence, fallback, approval path, and quality gate.
 
 ## Trompenaars
 
@@ -121,7 +121,7 @@ Do not demand public dissent as proof of engagement. Create safe channels: pre-r
 - A separate Hofstede/Hall explanation slide so the voting rationale is readable in the room.
 - A Hall signal-decoder quiz kept as a short practice moment.
 - A Trompenaars decision-path slide focused on proposal routing and role-safe consensus.
-- A redesigned safe-test card that turns a vague platform pilot into scope, fallback, cadence, and quality-gate elements.
+- A redesigned safe-test card that turns a vague proposal into scope, fallback, cadence, and quality-gate elements.
 
 The reasoning blocks use model names, relevant dimensions, comparison bars where data are available, and citations. Hofstede score bars use Hofstede-style US/Japan comparison values from Hofstede 1984 and Hofstede et al. 2010, with Taras et al. 2010 as the cautionary meta-analytic source. Hall context bars are labeled as qualitative teaching scales because Hall, Hall and Hall, Gudykunst and Nishida, and Lebra provide categorical high-context / low-context placement and communication evidence rather than Hofstede-style numerical scores.
 
